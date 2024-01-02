@@ -1,11 +1,16 @@
+# PhD Candidate
+
 ### Education
 - Ph.D., Civil & Environmental Engineering | Northeastern University | _Expected May 2024_ |
 - M.S., Civil & Environmental Engineering | Northeastern University | _May 2022_ |
 - B.S., Geoscience, Minor in Data Analytics | Union College | _June 2020_ |
 
 ### Experience
-**Project 1**
-**Project 2**
+**Remote Sensing of Rivers**
+-
+
+**Data Synthesis of US Groundwater**
+-
 
 ### Publications
 - **Gehring, J.**, Beighley, E., Griffin, C., Spencer R., Frey, K., Feng, D., Stubbins, A.. Evaluating the Sensitivity of Carbon Fluxes using Remotely Sensed River Discharge. In preparation.
