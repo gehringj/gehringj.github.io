@@ -1,4 +1,4 @@
-# PhD Candidate
+# PhD Candidate at Northeastern University
 
 ### Education
 - Ph.D., Civil & Environmental Engineering | Northeastern University | _Expected May 2024_ |
@@ -7,10 +7,16 @@
 
 ### Experience
 **Remote Sensing of Rivers**
--
+- Developed maps of river water extent and models of water quantity in natural systems using satellite imagery and altimetry
+- Compiled spectral data using Google Earth Engine to quantify water quality parameters
+- Automated data collection and processing using R and Python code
+- Published findings in scientific journals
 
 **Data Synthesis of US Groundwater**
--
+- Gathered and processed large datasets of groundwater measurements from government agencies for the nation
+- Developed maps which fill gaps in data for groundwater isotope measurements using geospatial analysis
+- Compiled important environmental parameters (e.g., temperature, precipitation) to predict concentrations using machine learning packages (Random Forest)
+- Published novel findings in a scientific journal and created data visualization tools for increased accessibility
 
 ### Publications
 - **Gehring, J.**, Beighley, E., Griffin, C., Spencer R., Frey, K., Feng, D., Stubbins, A.. Evaluating the Sensitivity of Carbon Fluxes using Remotely Sensed River Discharge. In preparation.
