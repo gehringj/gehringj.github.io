@@ -1,5 +1,3 @@
-# PhD Student
-
 ### Education
 - Ph.D., Civil & Environmental Engineering | Northeastern University | _Expected May 2024_ |
 - M.S., Civil & Environmental Engineering | Northeastern University | _May 2022_ |
